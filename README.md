@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?color=timeGradient&text=Have%20a%20nice%20day~!&type=Rect&animation=fadeIn&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?color=timeGradient&text=Welcome%20to%20my%20Github!&type=Rect&animation=fadeIn&stroke=00FF00)
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 
 <p align="center">
