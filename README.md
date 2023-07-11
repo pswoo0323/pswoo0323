@@ -4,7 +4,7 @@
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -27,3 +27,10 @@
  </a>
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pswoo0323)](https://solved.ac/pswoo0323/)
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+![sangwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pswoo0323&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pswoo0323&hide_progress=true)
