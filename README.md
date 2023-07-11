@@ -22,7 +22,7 @@
 
 <h3 align="center">📌 Follow Me 📌</h3>
 <h3 align="center">
- <a href="https://www.notion.so/homputer/Notion-43c19fd255694e979a0aef780f5391d7">
+ <a href="https://www.notion.so/homputer/Notion-0cf970712b794d95ba19fbc5d3d08d53?v=1ceb51437a6e49e580a9eb19c322e845">
 <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  </a>
  
