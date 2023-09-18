@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=welcome&desc=sangwoo's%20github%20render&fontAlign=70)<h3 align="center"><b>📚 Languages 📚</b></h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=welcome&desc=sangwoo's%20github%20render&animation=fadeIn&fontAlign=70)<h3 align="center"><b>📚 Languages 📚</b></h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
