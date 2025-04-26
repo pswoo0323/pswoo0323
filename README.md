@@ -8,12 +8,11 @@
  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OPENSTACK-ED1944?style=flat-square&logo=OPENSTACK&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<h3 align="center">🌈 SNS 🌈</h3>
+<h3 align="center">🌈 contact 🌈</h3>
 <h3 align="center">
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/sangwo_98/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+    <a>
+      
     <a href="psw8554@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
