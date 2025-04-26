@@ -21,7 +21,7 @@
 
 <h3 align="center">📌 Follow Me 📌</h3>
 <h3 align="center">
- <a href="https://www.notion.so/LG-aimers-88db52db3cb447bf834de904a022faad">
+ <a href="https://www.notion.so/Home-bb5068466664406bae8ee21d169b141b">
 <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  </a>
  
