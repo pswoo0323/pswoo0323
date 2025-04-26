@@ -11,11 +11,10 @@
 <h3 align="center">🌈 contact 🌈</h3>
 <h3 align="center">
 <div style="display:flex; flex-direction:row;">
-    <a>
-      
-    <a href="psw8554@gmail.com">
+    
+  <a href="psw8554@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+  </a>
 </div><br>
 
 <h3 align="center">📌 Follow Me 📌</h3>
